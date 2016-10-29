@@ -1,0 +1,1 @@
+call inco 4chan.org/%1/catalog
