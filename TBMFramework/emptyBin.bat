@@ -1,0 +1,1 @@
+powershell Clear-RecycleBin -force -erroraction ignore
