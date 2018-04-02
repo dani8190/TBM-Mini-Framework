@@ -6,5 +6,5 @@ set search=%search: =+%
 		url www.youtube.com/feed/subscriptions
 ) else (
 
-		url www.youtube.com/results?search_query=%search% 
+		url "www.youtube.com/results?search_query=%search%"
 )
