@@ -64,5 +64,5 @@ ex: make sandbox->bla
 #addons
 The framework will list all files in the addons folder, during startup & run them all.
 
-#url
+>url
 open websites. ex: url facebook.com
