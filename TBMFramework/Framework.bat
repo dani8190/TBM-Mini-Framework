@@ -1,6 +1,6 @@
 @echo off
 cls
-set dir=%userprofile%\TBMframework\commands
+set dir=%userprofile%\TBMframework\
 cd %dir%
 set title=CMD
 set logs=on
